@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 I am an Unreal Engine developer, beginning my professional career. Every week I learn something new and improve my skills. 
-If you are interested in any collaboration you can contact me using <a href="mailto:g.i.tedeev@gmail.com " target="_blank">email</a> and telegram
+If you are interested in any collaboration you can contact me using <a href="mailto:g.i.tedeev@gmail.com " target="_blank">email</a> and <a href="https://t.me/GeorgiiTedeev " target="_blank">telegram</a>
 
 Some info about me:
 - 🔭 I’m currently working on my game which is mostly finished (check ProjectGervant repo) and a simple multiplayer game which is in early development stage right now
