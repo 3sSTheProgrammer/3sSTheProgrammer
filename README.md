@@ -5,7 +5,7 @@ If you are interested in any collaboration you can contact me using <a href="mai
 
 Some info about me:
 - 👨‍💻 I mostly work with C++ but also using Blueprints in some cases
-- 🔭 I’m currently working on my game which is mostly finished (check ProjectGervant repo) and a simple multiplayer game which is in early development stage right now
+- 🔭 I’m currently working on my game which is almost finished (check ProjectGervant repo) and a simple multiplayer game which is in early development stage right now
 - 🌱 I’m currently learning basics of creating a multiplayer game in UE
 - 💼 I'm currently looking for job
 
