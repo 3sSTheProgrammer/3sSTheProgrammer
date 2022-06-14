@@ -1,4 +1,5 @@
 ### Hello there, name is Gosha 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 I am an Unreal Engine developer at the start of my professional career. Every week I learn something new and improve my skills. 
 If you are interested in any collaboration you can contact me using <a href="mailto:g.i.tedeev@gmail.com " target="_blank">email</a> and <a href="https://t.me/GeorgiiTedeev " target="_blank">telegram</a>
