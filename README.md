@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
+I am an Unreal Engine developer, beginning my professional career. Every week I learn something new and improve my skills. 
+If you are interested in any collaboration you can contact me using email and telegram
+
+Some info about me:
+- 🔭 I’m currently working on my game which is mostly finished (check ProjectGervant repo) and a simple multiplayer game which is in early development stage right now
+- 🌱 I’m currently learning basics of creating a multiplayer game in UE
+- 👨‍💻 I mostly work with C++ but also using Blueprints in some cases
+
+### Hello there 👋
 <!--
 **3sSTheProgrammer/3sSTheProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
